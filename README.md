@@ -13,7 +13,7 @@ Let's build something impactful together! 🚀
 
 ### 🛠️ Skills
 - **Programming Languages**: Java, Python, C, SQL
-- **Web Development**: React, MongoDB, HTML, CSS, JavaScript
+- **Web Development**: HTML, CSS, JavaScript, React, MongoDB, NodeJS, Express
 - **Hardware & IoT**: Arduino, ESP32, OpenCV
 
 ### 📜 Certifications
