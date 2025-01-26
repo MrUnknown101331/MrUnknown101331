@@ -50,8 +50,7 @@ I thrive on challenges that require integrating diverse platforms and technologi
 ![](https://github-profile-trophy.vercel.app/?username=MrUnknown101331&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrUnknown101331&icon=0&color=0)](https://visitcount.itsvg.in)
----
+
 ## **📫 Let’s Connect!**
 
 - **LinkedIn**: [Faizan Ahmed](https://www.linkedin.com/in/faizan-ahmed-a947791b0)
