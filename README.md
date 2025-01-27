@@ -37,20 +37,6 @@ I thrive on challenges that require integrating diverse platforms and technologi
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=MrUnknown101331&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrUnknown101331&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrUnknown101331&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MrUnknown101331&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 ## **📫 Let’s Connect!**
 
 - **LinkedIn**: [Faizan Ahmed](https://www.linkedin.com/in/faizan-ahmed-a947791b0)
